@@ -11,7 +11,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsDownload } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
-import CVFile from '../assets/RAFAEL_FERNANDEZ.pdf';
+import CVFile from '../assets/RAFAEL FERNANDEZ.pdf';
 import GIF from '../assets/down.gif';
 // import NoScroll from '../assets/no-scroll1.gif';
 import Scroll from '../assets/scroll.gif';
