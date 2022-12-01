@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rafael.dev/static/css/main.f34de1b3.css",
-    "main.js": "/rafael.dev/static/js/main.8929ab8d.js",
+    "main.js": "/rafael.dev/static/js/main.e81d4d98.js",
     "static/js/937.a1f59f92.chunk.js": "/rafael.dev/static/js/937.a1f59f92.chunk.js",
     "static/media/po.PNG": "/rafael.dev/static/media/po.b1d18de939bbcb4afe62.PNG",
     "static/media/mh.PNG": "/rafael.dev/static/media/mh.f11478d0953298472c0e.PNG",
@@ -11,10 +11,10 @@
     "static/media/ports.PNG": "/rafael.dev/static/media/ports.5c8580f4eb2a184bc2bb.PNG",
     "static/media/ck.PNG": "/rafael.dev/static/media/ck.4df4c8349a5739d4c743.PNG",
     "static/media/ceedbs.PNG": "/rafael.dev/static/media/ceedbs.2457e1e2153fc26afa0a.PNG",
+    "static/media/RAFAEL FERNANDEZ.pdf": "/rafael.dev/static/media/RAFAEL FERNANDEZ.9e30e6543627360afded.pdf",
     "static/media/php.png": "/rafael.dev/static/media/php.c12887b98d2a573fc498.png",
     "static/media/mysql.png": "/rafael.dev/static/media/mysql.7929b93827030cc071c5.png",
     "static/media/logo.png": "/rafael.dev/static/media/logo.6c3c9cf4f6f7e07f3878.png",
-    "static/media/RAFAEL_FERNANDEZ.pdf": "/rafael.dev/static/media/RAFAEL_FERNANDEZ.ebeb20bb8c03ea3c9cf3.pdf",
     "static/media/csharp.png": "/rafael.dev/static/media/csharp.324287af23c2b6ad522c.png",
     "static/media/laravel.png": "/rafael.dev/static/media/laravel.8b2939ca7ad8851c40a2.png",
     "static/media/boot.jpg": "/rafael.dev/static/media/boot.6703d1fd178d5d9d56ce.jpg",
@@ -24,11 +24,11 @@
     "static/media/javascript.png": "/rafael.dev/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/rafael.dev/index.html",
     "main.f34de1b3.css.map": "/rafael.dev/static/css/main.f34de1b3.css.map",
-    "main.8929ab8d.js.map": "/rafael.dev/static/js/main.8929ab8d.js.map",
+    "main.e81d4d98.js.map": "/rafael.dev/static/js/main.e81d4d98.js.map",
     "937.a1f59f92.chunk.js.map": "/rafael.dev/static/js/937.a1f59f92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f34de1b3.css",
-    "static/js/main.8929ab8d.js"
+    "static/js/main.e81d4d98.js"
   ]
 }
